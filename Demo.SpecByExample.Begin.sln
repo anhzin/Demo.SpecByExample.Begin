@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4A91A654-3826-41B6-B420-302D9F601AB2}"
 	ProjectSection(SolutionItems) = preProject
 		AcceptanceCriteria.txt = AcceptanceCriteria.txt
+		Bridging The Communication Gap - Abridged.pptx = Bridging The Communication Gap - Abridged.pptx
 		Steps.txt = Steps.txt
 	EndProjectSection
 EndProject
